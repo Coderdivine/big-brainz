@@ -1,0 +1,15 @@
+{
+  "name": "bbp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./*.html",
+    "build": "parcel build  ./*.html"
+  },
+  "author": "Ezechukwu divine",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
