@@ -8,6 +8,8 @@ body,html{
 overflow-x:hidden;
 
 }
+
+
 .contact{
 display:block;
 justify-content:center;
@@ -161,16 +163,33 @@ color:#d26a25;
 text-align:center;
 }
 .header-content h2{
-font-size:5vmin;
+font-size:4vmin;
+}
+.col-form{
+    text-align: center;
+    justify-content: center;
+    padding: 10px 10px;
+    align-items: center;
+    font-weight: 500px;
+    font-size: 16px;
+}
+.col-form p{
+    color: #d26a25;
+    font-weight: 800px;
+}
+.col-form small{
+    color:#d26a25;
+    font-size:26px;
+    margin:20px 20px;
 }
 .line{
-width:151px;
+width:150px;
 height:5px;
 background:#d26a25;
 margin:10px auto;
 }
 .header-content h1{
-font-size:7vmin;
+font-size:6vmin;
 margin-top:50px;
 margin-bottom:30px;
 }
