@@ -135,7 +135,7 @@ align-items:center;
 }
 .nav-links li{
 margin:0 30px;
-color:#d26a25;
+color:blue;
 
 
 }
@@ -148,7 +148,7 @@ background-position:bottom;
 display:flex;
 align-items:center;
 justify-content:center;
-border-bottom-right-radius:350px;
+border-bottom-right-radius:320px;
 }
 a{
 text-decoration:none;
@@ -263,7 +263,7 @@ font-weight: 1000;
 
 }
 .uche img{
-position:absolute;
+position:relative;
 justify-content:center;
 width: 70vmin;
 height: 70vmin;
